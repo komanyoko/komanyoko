@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @cooldre
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning c,c++,python and java
+- 👀 I’m interested in being a better tech guy 
 - 📫 How to reach me ...mugangadaida46@gmail.com
